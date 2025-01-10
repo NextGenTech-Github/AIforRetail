@@ -1,6 +1,6 @@
-# AI for Retail
+# AI for Retail and eCommerce
 
-## AI Use Cases for Retail Industry
+## AI Use Cases for Retail
 
 1. Customer Analytics
 Use Case: Analyzing customer data to understand shopping patterns, preferences, and lifetime value.
@@ -32,5 +32,38 @@ Use Case: Streamlining logistics and improving supply chain efficiency.
 10. Retail Automation
 Use Case: Automating repetitive tasks such as data entry, order processing, and email responses.
 
-## AI Use Cases for Retail Industry
+## AI Use Cases for eCommerce
+
+1. Personalized Customer Experience
+Use Case: Personalized Product Recommendations
+
+2. Visual Search and Image Recognition
+Use Case: Search by Image
+
+3. Customer Service Automation
+Use Case: AI Chatbots and Virtual Assistants
+
+4. Predictive Analytics
+Use Case: Demand Forecasting
+
+5. Fraud Detection and Prevention
+Use Case: Transaction Fraud Detection
+
+6. Pricing Optimization
+Use Case: Dynamic Pricing
+
+7. Logistics and Supply Chain Optimization
+Use Case: Route Optimization for Deliveries
+
+8. Marketing and Advertising
+Use Case: Targeted Advertising
+
+9. Voice Commerce
+Use Case: Voice-Activated Shopping
+
+10. Returns Management
+Use Case: Automated Return Approval
+
+11. Customer Retention and Loyalty
+Use Case: Churn Prediction, Personalized Loyalty Programs
 
